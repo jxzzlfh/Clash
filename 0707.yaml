@@ -1,27 +1,20 @@
-port: 7890
-socks-port: 7891
+mixed-port: 7890
 allow-lan: true
-mode: Rule
 log-level: info
-external-controller: :9090
-proxies: 
-  - name: "🇯🇵 V.PS-Tokyo-trojan"
-    type: "trojan"
-    server: "lfh.li"
-    port: 33538
-    password: "llshx2pcxZ"
-    skip-cert-verify: true
-    udp: true
+external-controller: 0.0.0.0:9090
+dns:
+  enabled: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
 
-  - name: "WireGuard节点"
-    type: "wireguard"
-    server: "38.47.116.26"
-    port: 51820
-    private-key: "oL8UFFkCvXivsMp78h8PgVgWjUAuNn7j4f4I+0gvUlw="
-    public-key: "1hB9S73c9Ktee1LfSuao6IUTFRNHEEFJDsIyQBylhGk="
-    preshared-key: "NHcqqPyS3OIFYRciE1FmfqELVJFUFbKlWCn4vgtE5Jw="
-    udp: true
-    dialer-proxy: "🇯🇵 V.PS-Tokyo-trojan"
+proxies:
+  - {"name":"defaultName"，"type":"wireguard"，"server":"38.47.116.26"，"port":51820，"udp":true，"ip":"10.8.0.5"，"private-key":"oL8UFFkCvXivsMp78h8PgVgWjUAuNn7j4f4I+0gvUlw="，"public-key":"1hB9S73c9Ktee1LfSuao6IUTFRNHEEFJDsIyQBylhGk="，"dns":["1.1.1.1"]，"pre-shared-key":"NHcqqPyS3OIFYRciE1FmfqELVJFUFbKlWCn4vgtE5Jw="，"remote-dns-resolve":true}
 proxy-groups:
   - name: ⚡️ 节点选择
     type: select
