@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
