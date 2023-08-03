@@ -1,7 +1,5 @@
 DOMAIN,cdn.auth0.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,azurefd.net
@@ -10,14 +8,11 @@ DOMAIN-SUFFIX,cdn.cloudflare.net
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,f7tk.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
@@ -33,6 +28,7 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,gpt3sandbox.com
@@ -42,6 +38,7 @@ DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
