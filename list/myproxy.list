@@ -1,4 +1,9 @@
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,ap-northeast-3.token.awswaf.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,pollinations.ai
+DOMAIN-SUFFIX,trust-provider.cn
+DOMAIN-SUFFIX,brasseriehub.com3
 DOMAIN-SUFFIX,bityun.net
 DOMAIN-SUFFIX,ednovas.org
 DOMAIN-SUFFIX,mojie.app
