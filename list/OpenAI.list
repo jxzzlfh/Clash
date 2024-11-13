@@ -13,6 +13,8 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,perplexity
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,anthropic.com
