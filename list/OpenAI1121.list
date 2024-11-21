@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,lmarena.ai
 DST-PORT,7881
 IP-ASN,20473,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
