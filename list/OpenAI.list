@@ -10,7 +10,6 @@ DOMAIN-KEYWORD,mistral
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
-DOMAIN-KEYWORD,perplexity
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
@@ -56,7 +55,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,pay.openai.com
-DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,poe.com
