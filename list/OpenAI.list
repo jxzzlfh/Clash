@@ -11,6 +11,8 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,sora
+DOMAIN-KEYWORD,perplexity
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
