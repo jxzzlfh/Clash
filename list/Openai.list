@@ -12,6 +12,8 @@ DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,sora
 DOMAIN-KEYWORD,perplexity
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,x.ai
