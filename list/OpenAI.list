@@ -13,6 +13,11 @@ DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,sora
 DOMAIN-KEYWORD,perplexity
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,vscode
+DOMAIN-KEYWORD,cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chat.com
