@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,qidi.fun
 DOMAIN-SUFFIX,dedao.tech
 DOMAIN-SUFFIX,renzhen.vip
 DOMAIN-SUFFIX,sikao.fun
-DOMAIN-SUFFIX,sharedchat.fun
+DOMAIN-SUFFIX,getdraft.ai
 DOMAIN-KEYWORD,lfh
 DOMAIN-KEYWORD,xue
 DOMAIN-KEYWORD,fenghua
@@ -24,3 +24,4 @@ DOMAIN-KEYWORD,dedao
 IP-CIDR,43.153.93.164/32,no-resolve
 IP-CIDR,43.138.11.121/32,no-resolve
 IP-CIDR,81.69.98.105/32,no-resolve
+
